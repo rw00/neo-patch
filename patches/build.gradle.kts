@@ -1,12 +1,12 @@
-group = "app.template"
+group = "app.neo.patches"
 
 patches {
     // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "neo Patches"
+        description = "Morphe patches for neo."
+        source = "git@github.com:rw00/neo-patch.git"
+        author = "rw00"
         contact = "na"
         website = "na"
         license = "GPLv3"
